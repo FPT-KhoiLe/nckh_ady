@@ -1,1 +1,1 @@
-# nckh_ady
+Hello các bạn mình là tôi đi code dạo
